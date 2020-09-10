@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔥 Go Communitity https://mojotv.cn
+
 -->
 
 - 🔭 Gopher
 - 🌱 Open source fancier
-- 🔥 Go Communitity https://mojotv.cn
 - 🏠 Homepage at https://mojotv.cn
 
 [![mojocn's github stats](https://github-readme-stats.vercel.app/api?username=mojocn)](https://github.com/mojocn)
