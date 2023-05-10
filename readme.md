@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - 🔭 Gopher Rustacean
 - 🌱 Open Source Fancier
 - 😄 Fullstack App Creator
+- 👯 I'm an awesome dad and great husband
+- 💬 Pro-democracy, pro-freedom, against dictatorship.
 - 🏠 Homepage at https://mojotv.cn
 
 [![mojocn's github stats](https://github-readme-stats.vercel.app/api?username=mojocn)](https://github.com/mojocn)
