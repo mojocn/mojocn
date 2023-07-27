@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - 👯 I'm an awesome dad and great husband
 - 💬 Pro-democracy, pro-freedom, against dictatorship
 - 🏠 Homepage at https://mojotv.cn
+- 🤖 Free GPT AI https://ai.mojotv.cn
 
 [![mojocn's github stats](https://github-readme-stats.vercel.app/api?username=mojocn)](https://github.com/mojocn)
 
