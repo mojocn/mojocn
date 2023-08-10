@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🔥 Go Communitity https://mojotv.cn
-- ⚖️ An idiot admires complexity, a genius admires simplicity
 
 -->
 
@@ -25,6 +24,7 @@ Here are some ideas to get you started:
 - 💬 Pro-democracy, pro-freedom, against dictatorship
 - 🏠 Homepage at https://mojotv.cn
 - 🤖 Free GPT AI https://ai.mojotv.cn
+- ⚖️ An idiot admires complexity, a genius admires simplicity
 
 [![mojocn's github stats](https://github-readme-stats.vercel.app/api?username=mojocn)](https://github.com/mojocn)
 
