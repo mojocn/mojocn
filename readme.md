@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🔥 Go Communitity https://mojotv.cn
-
+- ⚖️ An idiot admires complexity, a genius admires simplicity
 -->
 
 - 🔭 Gopher Rustacean
