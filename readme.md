@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - 😄 Fullstack App Creator
 - 👯 I'm an awesome dad and great husband
 - 💬 Pro-democracy, pro-freedom, against dictatorship
-- 🏠 Homepage at https://mojotv.cn
-- 🤖 Free GPT AI https://ai.mojotv.cn
+- 🏠 主页 https://zh.mojotv.cn
+- 🤖 Homepage https://mojotv.cn
 - ⚖️ An idiot admires complexity, a genius admires simplicity
 
 [![mojocn's github stats](https://github-readme-stats.vercel.app/api?username=mojocn)](https://github.com/mojocn)
