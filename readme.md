@@ -26,5 +26,4 @@ Here are some ideas to get you started:
 - 🤖 Homepage https://mojotv.cn
 - ⚖️ An idiot admires complexity, a genius admires simplicity
 
-[![mojocn's github stats](https://github-readme-stats.vercel.app/api?username=mojocn)](https://github.com/mojocn)
 
