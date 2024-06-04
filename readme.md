@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 Gopher Rustacean
+- 🔭 Gopher TypeScripter
 - 🌱 Open Source Fancier
 - 😄 Fullstack App Creator
 - 👯 I'm an awesome dad and great husband
