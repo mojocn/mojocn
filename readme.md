@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🔥 Go Communitity https://mojotv.cn
+- ▶️ [bilibili](https://space.bilibili.com/148303288)
+- 🎥 [Youtube]([https://www.youtube.com/@codeape)
 
 -->
 
