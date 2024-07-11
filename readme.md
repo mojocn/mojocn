@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 - 💬 Pro-democracy, pro-freedom, against dictatorship
 - 🏠 主页 https://zh.mojotv.cn
 - 🤖 Homepage https://mojotv.cn
-- ▶️ [bilibili https://space.bilibili.com/148303288](https://space.bilibili.com/148303288)
-- 🎥 [Youtube https://www.youtube.com/@codeape](https://www.youtube.com/@codeape)
+- ▶️ [space.bilibili.com/148303288](https://space.bilibili.com/148303288)
+- 🎥 [www.youtube.com/@codeape](https://www.youtube.com/@codeape)
 - ⚖️ An idiot admires complexity, a genius admires simplicity
 
 
