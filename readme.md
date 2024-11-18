@@ -33,3 +33,6 @@ Here are some ideas to get you started:
 - 🎥 [www.youtube.com/@codeape](https://www.youtube.com/@codeape)
 
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/mojocn/mojocn/output/github-contribution-grid-snake.svg)
+
+
