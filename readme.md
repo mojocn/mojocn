@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🎥 [Youtube]([https://www.youtube.com/@codeape)
 
 -->
- ### I'm 周庆 Eric Zhou
+ ### I'm Eric Zhou
 - 🔭 Gopher TypeScripter
 - 🌱 Open Source Fancier
 - 😄 Fullstack App Creator
