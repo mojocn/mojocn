@@ -35,4 +35,6 @@ Here are some ideas to get you started:
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/mojocn/mojocn/output/github-contribution-grid-snake.svg)
 
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
 
