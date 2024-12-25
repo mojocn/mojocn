@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 - 🌱 Open Source Fancier
 - 😄 Fullstack App Creator
 - 👯 I'm an awesome dad and great husband
-- ⚖️ "Simplicity is prerequisite for reliability." - Edsger Dijkstra
-- 🤖 "Simplicity is the ultimate sophistication." - Leonardo da Vinci
-- ⚖️ "The simplest things are often the truest." - Richard Bach
+- ⚖️ Simplicity is prerequisite for reliability. - Edsger Dijkstra
+- 🤖 Simplicity is the ultimate sophistication. - Leonardo da Vinci
+- ⚖️ The simplest things are often the truest. - Richard Bach
 - 💬 Pro-democracy, pro-freedom, against dictatorship
 - 🏠 Homepage [https://mojotv.cn](https://mojotv.cn/posts/program)
 - ▶️ [space.bilibili.com/148303288](https://space.bilibili.com/148303288)
