@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 -->
  ### I'm Eric Zhou
-- 🔭 Gopher TypeScripter
+- 🔭 Gopher Pythoner TypeScripter
 - 🌱 Open Source Fancier
 - 😄 Fullstack App Creator
 - 👯 I'm an awesome dad and great husband
