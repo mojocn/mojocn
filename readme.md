@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🔥 Go Communitity https://mojotv.cn
 - ▶️ [bilibili](https://space.bilibili.com/148303288)
-- 🎥 [Youtube]([https://www.youtube.com/@codeape)
+- 🎥 [Youtube](https://www.youtube.com/@codeape)
+- 🎥 [Youtube中文](https://www.youtube.com/@coder2thinker)
+
 
 -->
  ### I'm Eric Zhou
