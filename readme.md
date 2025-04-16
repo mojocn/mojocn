@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🏠 Homepage [https://mojotv.cn](https://mojotv.cn/posts)
 - ▶️ [space.bilibili.com/148303288](https://space.bilibili.com/148303288)
 - 🎥 [www.youtube.com/@codeape](https://www.youtube.com/@codeape)
-
+- 🎥 [Youtube中文](https://www.youtube.com/@coder2thinker)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/mojocn/mojocn/output/github-contribution-grid-snake.svg)
 
